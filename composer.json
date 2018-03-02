@@ -1,0 +1,14 @@
+{   
+    
+    "name": "leonardo/curso-composer",
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "twbs/bootstrap": "3.3.7"
+    },
+    "authors": [
+        {
+            "name": "Leonardo",
+            "email": "leoroberto.alves@hotmail.com"
+        }
+    ]
+}
